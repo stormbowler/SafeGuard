@@ -2,7 +2,8 @@
 export default {
     "version": "2.0.3",
     //the owner password to edit config in game
-    "OWNER_PASSWORD": "",
+    "voltag password
+    ": "",
     "other":{
         //dev stuff
         "consoleDebugMode": true,
